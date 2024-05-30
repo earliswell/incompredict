@@ -1,7 +1,7 @@
 # incompredict
 
 ### 최종 점수 RMSE
-Public Score : 535.48612
+Public Score : 535.48612  
 Private Score : 553.5084 
 
 최종 13등으로 마감하였습니다.
